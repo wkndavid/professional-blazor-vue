@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BankBlazor",
   "resources": {
-    "hash": "sha256-aqxTDCpD4iXQewSS6mTi5V+3rNIy/r5luB59WgBK1Us=",
+    "hash": "sha256-PXG//lBNa3I5B/Bc5mcpc7aWhPQpfusdt2+ZQWk9x1g=",
     "jsModuleNative": {
       "dotnet.native.8.0.15.8hnn4z78dl.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-BeLfFpg9iS3DkEdywsYY7sV6ML3knqkMaMq0JBEbWlw=",
       "netstandard.wasm": "sha256-VkjUtJ6DK5bFTc2JwwGHmQY3tBcNSC7zMSJXuiXcnJA=",
       "System.Private.CoreLib.wasm": "sha256-VIQEPUSb48N39LR+ncGDP5xU02xuRbyZU8MhMho26wQ=",
-      "BankBlazor.wasm": "sha256-WFNo55lM2hF5Qt8e25jT2VnL1c+UQQOK0EKFacOpwe0="
+      "BankBlazor.wasm": "sha256-OPUE1zQPOFKuThDpnvVOSzV9ytsaU1rG6DbDG+8Cbxw="
     },
     "pdb": {
-      "BankBlazor.pdb": "sha256-WkfakY0c2nw3o+KV5M0llfGkSCR0c0Wm6oKJTGKBd8Y="
+      "BankBlazor.pdb": "sha256-P/B1PJKi+3VxGrUK4zsjKaf0h1deB7CdRBbMQqtqNZo="
     }
   },
   "cacheBootResources": true,
