@@ -2,21 +2,23 @@
 
 <PageTitle>Teste</PageTitle>
 
+<h1 class="text-sucess text-center p-5">Teste</h1>
 
-<h1>Teste</h1>
-<p role="status">Current count: @currentCount</p>   
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
-<button class="btn btn-primary" @onclick="DecrementCount">Click me</button>
+<div>
+    <label class="text-muted" >Digite seu nome:</label>
+    <input type="text" class="form-control">
+</div>
 
-@code {
-    private int currentCount = 0;
+<div class="mt-3">
+    <button class="btn btn-outline-primary">Enviar</button>
+</div>
 
-    private void IncrementCount()
-    {
-        currentCount++;
-    }
-    private void DecrementCount()
-    {
-        currentCount--;
-    }       
-}
+<div class="row border p-4 mt-3 rounded shadow"> 
+    <div class="col bg-primary">col  1</div>
+    <div class="col bg-success">col  2</div>
+    <div class="col bg-warning">col  3</div>
+</div>
+
+<div class="border mt-3 p-5 rounded shadow">
+    <h1>Este é um texto editado com Bootstrap</h1>
+</div>

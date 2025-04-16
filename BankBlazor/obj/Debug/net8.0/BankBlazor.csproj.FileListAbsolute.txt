@@ -1029,3 +1029,4 @@
 /home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/refint/BankBlazor.dll
 /home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/BankBlazor.pdb
 /home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/ref/BankBlazor.dll
+/home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/BankBlazor.sourcelink.json
