@@ -3,12 +3,12 @@
 <PageTitle>Teste</PageTitle>
 <!-- Jesus 2 OnCode -->
 <h1 class="text-sucess text-center p-5">
-    @name
+    @texto
 </h1>
 
 <div>
     <label class="text-muted" >Digite seu nome:</label>
-    <input type="text" class="form-control">
+    <input @bind-value=texto type="text" class="form-control">
 </div>
 
 <div class="mt-3">
@@ -26,8 +26,8 @@
 </div>
 
 @code {
-    string name = "Jesus 2";
+    string texto = "Jesus 2";
     void Change(){
-        name = "Componente Exemplo";
+        texto = "Componente Exemplo";
     }
 }
