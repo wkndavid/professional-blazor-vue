@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BankBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94bb2d332075a934d893a47de74cff545bec0e10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d54f46dac3e7c7c83911a56ea65987aff7eab70")]
 [assembly: System.Reflection.AssemblyProductAttribute("BankBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BankBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
