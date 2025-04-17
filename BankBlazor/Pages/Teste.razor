@@ -3,7 +3,7 @@
 <PageTitle>Teste</PageTitle>
 <!-- Jesus 2 OnCode -->
 
-<h1 class="@minhaClasse">
+<h1 class="@minhaClasse" style="@meuEstilo">
     @texto
 </h1>
 
@@ -27,10 +27,12 @@
 </div>
 
 @code {
-    string texto = "Jesus 2";
+    string texto = "BLAZOR PRO";
     string minhaClasse ="";
+    string meuEstilo = "";
     void Change(){
-        texto = "Componente Exemplo";
-        minhaClasse = "text-success text-center p-5";
+        texto = "TEXTO ALTERADO COM SUCESSO!";
+        minhaClasse = "text-center p-5";
+        meuEstilo = "color: GREY; font-size: 6rem;";    
     }
 }
