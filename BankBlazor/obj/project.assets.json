@@ -1873,7 +1873,7 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/andrea/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1881,11 +1881,11 @@
       "projectUniqueName": "/home/andrea/projetos/blazor-vue/BankBlazor/BankBlazor.csproj",
       "projectName": "BankBlazor",
       "projectPath": "/home/andrea/projetos/blazor-vue/BankBlazor/BankBlazor.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/andrea/.nuget/packages/",
       "outputPath": "/home/andrea/projetos/blazor-vue/BankBlazor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/andrea/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

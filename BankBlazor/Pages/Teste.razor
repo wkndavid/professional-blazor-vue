@@ -1,13 +1,18 @@
 @page "/teste"
 
 <PageTitle>Teste</PageTitle>
-<!-- Jesus 2 OnCode -->
+<h1 class="@minhaClasse" style="@meuEstilo">
 
-<Titulo Texto="@texto"></Titulo>
+
+    @dandoErro
+
+
+</h1>
+<Titulo Texto="@dandoErro"></Titulo>
 
 <div>
     <label class="text-muted" >Digite seu nome:</label>
-    <input @bind-value=texto type="text" class="form-control">
+    <input @bind-value=dandoErro type="text" class="form-control">
 </div>
 
 <div class="mt-3">
@@ -25,11 +30,11 @@
 </div>
 
 @code {
-    string texto = "BLAZOR PRO";
-    string minhaClasse ="";
+    string dandoErro = "BLAZOR PRO";
+    string minhaClasse = "";
     string meuEstilo = "";
     void Change(){
-        texto = "TEXTO ALTERADO!";
+        dandoErro = "TEXTO ALTERADO!";
         minhaClasse = "text-center p-5";
         meuEstilo = "color: GREY; font-size: 3rem;";    
     }
