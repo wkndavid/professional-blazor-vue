@@ -1,7 +1,26 @@
-@page "/cadastro"
+@page "/"
+@using BankBlazor.Models
 
 <Titulo Texto="Cadastro de Produto"></Titulo>
 
-@code {
+<div class="border mt-3 p-5 shadow">
+    <p>Nome: @produto.Nome</p>
+    <p>Preço: @produto.Preco</p>
+    <p>Quantidade: @produto.Quantidade</p>
+    <p>Valor do Estoque Total: @produto.ValorEstoqueTotal()</p>
+    <br>
+    <button @onclick="MostrarDados" class="btn btn-primary">
+                    Mostrar Dados
+    </button>
+</div>
 
+@code {     
+    Produto produto = new();
+
+    private void MostrarDados()
+    {
+        produto.Nome = "Caneta Bic";
+        produto.Preco = 2.50;
+        produto.Quantidade = 10;
+    }
 }

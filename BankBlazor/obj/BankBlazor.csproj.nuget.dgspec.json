@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/andrea/projetos/blazor-vue/BankBlazor/BankBlazor.csproj",
         "projectName": "BankBlazor",
         "projectPath": "/home/andrea/projetos/blazor-vue/BankBlazor/BankBlazor.csproj",
-        "packagesPath": "/home/andrea/.nuget/packages/",
+        "packagesPath": "/root/.nuget/packages/",
         "outputPath": "/home/andrea/projetos/blazor-vue/BankBlazor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/andrea/.nuget/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
