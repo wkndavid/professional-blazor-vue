@@ -3,6 +3,15 @@
 
 <Titulo Texto="Cadastro de Produto"></Titulo>
 
+<label class="text-muted">Nome</label>
+<input @bind-value=produto.Nome class="form-control"/>
+
+<label class="text-muted">Preço</label>
+<input @bind-value=produto.Preco class="form-control"/>
+
+<label class="text-muted">Quantidade</label>
+<input @bind-value=produto.Quantidade class="form-control"/>
+
 <div class="border mt-3 p-5 shadow">
     <p>Nome: @produto.Nome</p>
     <p>Preço: @produto.Preco</p>
