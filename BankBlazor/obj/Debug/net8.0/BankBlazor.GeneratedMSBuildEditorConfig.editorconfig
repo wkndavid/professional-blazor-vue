@@ -30,12 +30,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FkYXN0cmFyUHJvZHV0by5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/andrea/projetos/blazor-vue/BankBlazor/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/andrea/projetos/blazor-vue/BankBlazor/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+[/home/andrea/projetos/blazor-vue/BankBlazor/Pages/Mensagem.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVuc2FnZW0ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/andrea/projetos/blazor-vue/BankBlazor/Pages/Teste.razor]
@@ -44,10 +40,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/home/andrea/projetos/blazor-vue/BankBlazor/Pages/Titulo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGl0dWxvLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/andrea/projetos/blazor-vue/BankBlazor/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/andrea/projetos/blazor-vue/BankBlazor/_Imports.razor]
