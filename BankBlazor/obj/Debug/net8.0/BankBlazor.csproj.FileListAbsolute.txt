@@ -615,6 +615,7 @@
 /home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/BankBlazor.AssemblyInfo.cs
 /home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/BankBlazor.csproj.CoreCompileInputs.cache
 /home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/BankBlazor.MvcApplicationPartsAssemblyInfo.cache
+/home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/BankBlazor.sourcelink.json
 /home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Authorization.wasm
 /home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Components.wasm
 /home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Components.Forms.wasm
@@ -1029,4 +1030,3 @@
 /home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/refint/BankBlazor.dll
 /home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/BankBlazor.pdb
 /home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/ref/BankBlazor.dll
-/home/andrea/projetos/blazor-vue/BankBlazor/obj/Debug/net8.0/BankBlazor.sourcelink.json

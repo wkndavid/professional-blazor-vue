@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/andrea/projetos/blazor-vue/BankBlazor/BankBlazor.csproj",
         "projectName": "BankBlazor",
         "projectPath": "/home/andrea/projetos/blazor-vue/BankBlazor/BankBlazor.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/andrea/.nuget/packages/",
         "outputPath": "/home/andrea/projetos/blazor-vue/BankBlazor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/andrea/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -46,6 +46,12 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.15, )"
+            },
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.2, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
