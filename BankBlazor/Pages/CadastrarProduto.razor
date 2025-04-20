@@ -4,7 +4,7 @@
 <Titulo Texto="Cadastro de Produto"></Titulo>
 <Mensagem Msg="@msg"></Mensagem>
 
-<EditForm Model=@produto OnSubmit="@Adicionar" class="p-5 mt-3 border shadow">
+<EditForm Model=@produto OnValidSubmit="@Adicionar" OnInvalidSubmit="@Erro" class="p-5 mt-3 border shadow">
     <DataAnnotationsValidator></DataAnnotationsValidator>
 
     <label class="text-muted">Nome</label>
@@ -39,8 +39,13 @@
     Produto produto = new();
 
     private string msg = "";
-    private void Adicionar(){
+    private void Adicionar()
+    {
         msg = "Produto cadastrado!";
+    }
+    private void Erro()
+    {
+        msg = "Não foi possível cadastrar o produto !";
     }
     private void MostrarDados()
     {
